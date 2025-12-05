@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring software developer with a strong interest in programming, problem-solving, and creating efficient, well-structured applications. I am continuously building my skills through academic projects, independent learning, and hands-on coding practice.<br>
+Aspiring data analyst with a strong interest in programming, problem-solving, and creating efficient, well-structured data. I am continuously building my skills through academic projects, independent learning, and hands-on coding practice.<br>
 
 
 # 🌐 Socials:
