@@ -7,7 +7,8 @@ Aspiring software developer with a strong interest in programming, problem-solvi
 
 
 # 📝 Certification:
-<a href="https://courses.cognitiveclass.ai/certificates/41fa577c72594a3ea9180797cc0dddef">SQL and Relational Databases 101</a>  Nov 2025
+<a href="https://courses.cognitiveclass.ai/certificates/41fa577c72594a3ea9180797cc0dddef">SQL and Relational Databases 101</a>  November 2025
+
 
 
 # 💻 Tech Stack:
