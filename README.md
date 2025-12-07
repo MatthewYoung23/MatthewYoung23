@@ -8,7 +8,7 @@ Aspiring data analyst with a strong interest in programming, problem-solving, an
 
 # 📝 Certification:
 <a href="https://courses.cognitiveclass.ai/certificates/41fa577c72594a3ea9180797cc0dddef">SQL and Relational Databases 101</a> - November 2025
-<br> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FCF161F57851BAC44BAEB39293258EB417F3CC14AABDE06A3DBEF9271BBCB91F">Oracle Cloud Infrastructure</a> - December 2025
+<br> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FCF161F57851BAC44BAEB39293258EB417F3CC14AABDE06A3DBEF9271BBCB91F">OCI Foundations Associate</a> - December 2025
 
 
 # 💻 Tech Stack:
