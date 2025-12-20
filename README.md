@@ -10,6 +10,8 @@ Aspiring data analyst with a strong interest in programming, problem-solving, an
 <a href="https://courses.cognitiveclass.ai/certificates/41fa577c72594a3ea9180797cc0dddef">SQL and Relational Databases 101</a> - November 2025
 <br> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FCF161F57851BAC44BAEB39293258EB417F3CC14AABDE06A3DBEF9271BBCB91F">OCI Foundations Associate</a> - December 2025
 <br> <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E061262F5391021D5F768484A0DEDAA6A4E9F64E7017B4E047E18405E4EA5B7A">Oracle Data Platform Foundations Associate</a> - December 2025
+<br> <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2DD503C311D651B5E49BFDDE37348B82CBE902B7A7F075D0EF63948F96DA845D">Oracle Cloud Infrastructure AI Foundations Associate</a> - December 2025
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
